@@ -1,6 +1,6 @@
-package br.com.engsenai.projeto_calculoDeFormas.model;
+package br.com.engsenai.projeto_calculoDeForma;
 
-import br.com.engsenai.projeto_calculoDeForma.Quadrado;
+import br.com.engsenai.projeto_calculoDeFormas.model.Quadrado;
 
 public class Main {
 
@@ -9,7 +9,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		Quadrado q1 = new Quadrado();
-		q1.lado = 28;
+		q1.lado = 2;
 		q1.mostrarDados();
 		
 	}
