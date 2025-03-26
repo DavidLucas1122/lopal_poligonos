@@ -1,4 +1,4 @@
-package br.com.engsenai.projeto_calculoDeFormas.model;
+package br.com.engsenai.model;
 
 public class Trapezio {
 
